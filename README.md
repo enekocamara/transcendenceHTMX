@@ -1,4 +1,4 @@
-# trancendence
+# transcendence htmx
 
 HTMX version of the trancendance project made to learn htmx.
 It will use htmx django redis and postgre.
