@@ -25,8 +25,8 @@ Eneko:
 > - [x] Nginx
 > - [ ] Django
 > - [x] Postgres
-> - [] Redis1
-> - [] Redis2 
+> - [ ] Redis1
+> - [ ] Redis2 
 
 
 
