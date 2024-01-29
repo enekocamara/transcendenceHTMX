@@ -22,11 +22,12 @@ All:
 
 Eneko:
 
-> - [ ] Frontend app mapping
-> - [ ] Frontend app working
-> - [ ] Djando container
-> - [ ] Postgres container
-> - [ ] Readme 
+> - [x] Nginx
+> - [ ] Django
+> - [ ] Postgres
+> - [ ] Django
+> - [x] Redis1
+> - [x] Redis2 
 
 
 
